@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCmusic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCmusicDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ALLMUSIC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="COUNTDOWN.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CCustomComboBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CCustomSlider.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="iofile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="music.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCmusic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCmusicDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ALLMUSIC.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="COUNTDOWN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomComboBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomSlider.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="iofile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="music.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCmusic.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCmusic.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCmusic.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\播放.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\上一曲.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\下一曲.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\暂停.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\不循环.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\单曲循环.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\列表循环.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\顺序播放.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\随机播放.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\播放1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\上一曲1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\下一曲1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\暂停1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\搜索.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\搜索1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\背景.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\删除.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\删除1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\图标.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\图标64.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\top.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\top_1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\添加.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="bmp\添加1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
