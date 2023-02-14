@@ -11,3 +11,4 @@
 目前仅提供暗色皮肤，后续会增加多种主题
 
 此程序编译器为Visual Studio 2019，我第一次使用MFC创建对话框并实现了一些简单的功能，后续会增加一些新的功能。
+![使用说明](https://github.com/Toeaticecream/Mymusic/blob/1b19716b7bc14d38e477659c5689f687bf9cd988/description.png)
