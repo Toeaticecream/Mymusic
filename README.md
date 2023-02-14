@@ -36,4 +36,4 @@
 
 [2023/2/14],版本 1.0
 
-![使用说明](https://github.com/Toeaticecream/Mymusic/blob/1b19716b7bc14d38e477659c5689f687bf9cd988/description.png)
+![使用说明](https://github.com/Toeaticecream/Mymusic/blob/a25753c915a6352ec1a810520e5a32d88a7b868b/description.png)
