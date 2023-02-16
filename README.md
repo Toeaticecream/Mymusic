@@ -37,3 +37,7 @@
 [2023/2/14],版本 1.0
 
 ![使用说明](https://github.com/Toeaticecream/Mymusic/blob/a25753c915a6352ec1a810520e5a32d88a7b868b/description.png)
+
+转载请说明出处
+
+
