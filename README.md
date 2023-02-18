@@ -35,7 +35,7 @@
 此程序编译器为Visual Studio 2019，我第一次使用MFC创建对话框并实现了一些简单的功能，后续会增加一些新的功能。
 
 [2023/2/14],版本 1.0
-
+![使用说明](https://user-images.githubusercontent.com/125326450/219851596-6008d50b-a346-4505-acde-85801a44144f.jpg)
 ![使用说明](https://github.com/Toeaticecream/Mymusic/blob/a25753c915a6352ec1a810520e5a32d88a7b868b/description.png)
 
 转载请说明出处
